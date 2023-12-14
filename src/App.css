@@ -1,0 +1,15 @@
+/* App.css */
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+#map {
+  width: 100%;
+  height: 100vh; /* 100% de la hauteur de la vue */
+  border-radius: 10px; /* Bords arrondis */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Ombre légère */
+}
+
+
